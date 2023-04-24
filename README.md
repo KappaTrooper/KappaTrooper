@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KappaTrooper
 - 👀 I’m interested in Development and Creating new innvations  
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source and my own projects
 - 📫 How to reach me contact@ajaysingh.ca
 
