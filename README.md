@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KappaTrooper
-- 👀 I’m interested in Development and Creating new innvations  
+- 👀 I’m interested in Development and Creating new innovation  
 - 🌱 I’m currently learning Node js and Express js
 - 💞️ I’m looking to collaborate on open source and my own projects
 - 📫 How to reach me contact@ajaysingh.ca
