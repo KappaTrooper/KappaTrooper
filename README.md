@@ -22,10 +22,9 @@ My name is Ajay, and I'm a Software Engineer with a passion for building innovat
 
 ### ImageBucket
 
-ImageBucket is a platform where users can upload, explore, and interact with captivating images.
+Where captivating images meet community engagement, allowing users to explore, upload, and connect through visual storytelling.
 
 - Repository: [ImageBucket](https://github.com/KappaTrooper/Imagebucket-frontend)
-- Imagebucket: Where captivating images meet community engagement, allowing users to explore, upload, and connect through visual storytelling.
 
 
 
