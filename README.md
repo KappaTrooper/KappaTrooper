@@ -15,7 +15,7 @@ I'm Ajay! 👋
 I'm a Software Engineer with a passion for building innovative web applications. 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,nextjs,express,mysql,mongodb,git,vscode,postgres,aws,cloudfare,coffeescript,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,nextjs,express,mysql,mongodb,git,vscode,postgres,aws,coffeescript,docker,linux)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ae,blender,figma,ai,ps,pr,raspberrypi,xd)](https://skillicons.dev)
 
