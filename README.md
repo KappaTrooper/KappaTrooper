@@ -8,7 +8,7 @@
 # Hi there! 👋
 
 
-# Hi, I'm Ajay! 👋
+I'm Ajay! 👋
 
 
 ## 🚀 About Me
@@ -16,19 +16,8 @@ I'm a Software Engineer with a passion for building innovative web applications.
 
 ## Skills
 
-- JavaScript
-- Node.js
-- React
-- Express
-- MySQL
-- Agile Development
-- Document Object Model (DOM) APIs
-- Web APIs
-- User Authentication
-- OAuth
-- Heroku
-- GitHub
-- Jest
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,nextjs,express,mysql,mongodb,vscode,postgres&perline=3)](https://skillicons.dev)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ajaysingh.ca//)
