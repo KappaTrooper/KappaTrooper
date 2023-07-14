@@ -1,11 +1,11 @@
-# Hi there! 👋
+
 
 
 ![Homepage](https://i.imgur.com/4Fv5kz2.gif)
 
 
 
-
+# Hi there! 👋
 
 
 # Hi, I'm Ajay! 👋
