@@ -28,13 +28,12 @@
 </p>
 <br />
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ajaysingh.ca//)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhajay//)
+<h3 align="center">
+        <samp>&gt; About me
+                <b><a target="_blank" href="https://alsiam.com">I'm a Software Engineer with a passion for building innovative web applications. </a></b>
+        </samp>
+</h3>
 
-
-
-## 🚀 About Me
-I'm a Software Engineer with a passion for building innovative web applications. 
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,nextjs,express,mysql,mongodb,git,vscode,postgres,aws,coffeescript,docker,linux)](https://skillicons.dev)
