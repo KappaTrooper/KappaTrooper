@@ -29,7 +29,7 @@
 <br />
 
 <h3 align="center">
-        <samp>&gt; About me
+        <samp>&gt; 
                 <b><a target="_blank" href="https://alsiam.com">I'm a Software Engineer with a passion for building innovative web applications. </a></b>
         </samp>
 </h3>
