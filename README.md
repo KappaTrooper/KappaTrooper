@@ -1,6 +1,18 @@
 # Hi there! 👋
 
-My name is Ajay, and I'm a Software Engineer with a passion for building innovative web applications. 
+
+![Homepage](https://i.imgur.com/4Fv5kz2.gif)
+
+
+
+
+
+
+# Hi, I'm Ajay! 👋
+
+
+## 🚀 About Me
+I'm a Software Engineer with a passion for building innovative web applications. 
 
 ## Skills
 
