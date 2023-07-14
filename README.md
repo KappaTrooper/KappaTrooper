@@ -8,11 +8,12 @@
 
 
 
-# Hi there! 👋
-
-
-I'm Ajay! 👋
-
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Ajay</a></b>
+        </samp>
+</h3>
 
 ## 🚀 About Me
 I'm a Software Engineer with a passion for building innovative web applications. 
