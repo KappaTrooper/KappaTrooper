@@ -1,7 +1,10 @@
 
 
 
-![Homepage](https://i.imgur.com/4Fv5kz2.gif)
+<div style="display: flex; justify-content: center;">
+  <img src="https://i.imgur.com/4Fv5kz2.gif" alt="Homepage" />
+</div>
+
 
 
 
