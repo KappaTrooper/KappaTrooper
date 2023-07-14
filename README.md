@@ -15,8 +15,7 @@ I'm Ajay! 👋
 I'm a Software Engineer with a passion for building innovative web applications. 
 
 ## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,nextjs,express,mysql,mongodb,vscode,postgres&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,nextjs,express,mysql,mongodb,vscode,postgres)](https://skillicons.dev)
 
 
 ## 🔗 Links
