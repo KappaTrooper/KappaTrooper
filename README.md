@@ -17,20 +17,20 @@
 
 <p align="center">
  <a href="https://www.ajaysingh.ca/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ajay" />
  </a>
  <a href="https://www.linkedin.com/in/singhajay/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ajay"/>
  </a>
  <a href="https://dev.to/kappatrooper" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Ajay" />
  </a>
 </p>
 <br />
 
 <h3 align="center">
         <samp>&gt; 
-                <b><a target="_blank" href="https://alsiam.com">I'm a Software Engineer with a passion for building innovative web applications. </a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/singhajay">I'm a Software Engineer with a passion for building innovative web applications. </a></b>
         </samp>
 </h3>
 
