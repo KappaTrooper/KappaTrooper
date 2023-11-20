@@ -34,7 +34,9 @@
         </samp>
 </h3>
 
+<h3 align="center">
 ![](https://komarev.com/ghpvc/?username=your-github-KappaTrooper&color=green)
+</h3>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,nextjs,express,mysql,mongodb,git,vscode,postgres,aws,coffeescript,docker,linux)](https://skillicons.dev)
